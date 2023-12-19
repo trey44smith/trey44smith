@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Active Directory Home Lab</b>
-  - [Practicing Active Directory](https://github.com/trey44smith/LABURL)
+  - [Practicing Active Directory](https://github.com/trey44smith/ActiveDirectoryLab)
  
 <h2> 🎓 Degrees and Certifications</h2>
 
