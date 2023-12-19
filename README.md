@@ -7,7 +7,8 @@
  
 <h2> 🎓 Degrees and Certifications</h2>
 
-- <b>B.S., Computer Science</b>
+- <b>B.S., Computer Science - San José State University</b>
+- <b>B.S., General Studies - University of Idaho</b>
 
 <h2> 🧰 Languages and Skills</h2>
 
