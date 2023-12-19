@@ -6,8 +6,8 @@
   - [Praciting Active Directory](https://github.com/trey44smith/LABURL)
  
 <h2> 🎓 Degrees and Certifications</h2>
-- B.S., Computer Science
-- CompTIA A+
+
+- <b>B.S., Computer Science</b>
 
 <h2> 🤳 Connect with me:</h2>
 
