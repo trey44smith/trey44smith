@@ -1,4 +1,4 @@
-<h1>Hi, I'm Trey! <br/>
+<h1>Hi, I'm Trey! <br/> <a>Programmer, IT Technician, Future Cloud Engineer</a>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
@@ -8,6 +8,13 @@
 <h2> 🎓 Degrees and Certifications</h2>
 
 - <b>B.S., Computer Science</b>
+
+<h2> 🧰 Languages and Skills</h2>
+- <b>Java</b>
+
+<h2>My Coding Journey</h2>
+
+- Hello
 
 <h2> 🤳 Connect with me:</h2>
 
