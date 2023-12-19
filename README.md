@@ -10,11 +10,16 @@
 - <b>B.S., Computer Science</b>
 
 <h2> 🧰 Languages and Skills</h2>
+
 - <b>Java</b>
 
 <h2>My Coding Journey</h2>
 
-- Hello
+<b> As a former five-year Division One basketball player, I bring the same dedication, discipline, and teamwork I honed on the court into the world of technology.
+
+I hold a Bachelor of Science in Computer Science from San Jose State University, where I developed a passion for solving complex problems and writing elegant code. My journey from the basketball court to the command line has been an exciting one, and I'm constantly driven to learn and grow.
+
+On my GitHub, you'll find a collection of my projects, ranging from Cybersecurity to Cloud apps, showcasing my skills and commitment to excellence. I thrive on challenges and enjoy collaborating with fellow developers to build innovative solutions. </b>
 
 <h2> 🤳 Connect with me:</h2>
 
