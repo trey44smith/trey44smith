@@ -12,10 +12,10 @@
 
 <h2> 🧰 Languages and Skills</h2>
 
-- <b>Active Directory</b>
 - <b>Java</b>
 - <b>Python</b>
 - <b>VPN</b>
+- <b>Active Directory</b>
 
 <h2>My Coding Journey</h2>
 
