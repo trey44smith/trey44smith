@@ -4,6 +4,8 @@
 
 - <b>Active Directory Home Lab</b>
   - [Practicing Active Directory](https://github.com/trey44smith/ActiveDirectoryLab)
+- <b>Raspberry Pi VPN with WireGuard</b>
+  - [VPN Server](https://github.com/trey44smith/PiVPN-WireGuard-Server)
  
 <h2> 🎓 Degrees and Certifications</h2>
 
