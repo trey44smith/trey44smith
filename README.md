@@ -26,15 +26,3 @@
 I hold a Bachelor of Science in Computer Science from San José State University, where I developed a passion for solving complex problems and writing elegant code. My journey from the basketball court to the command line has been an exciting one, and I'm constantly driven to learn and grow.
 
 On my GitHub, you'll find a collection of my projects, ranging from Cybersecurity to Cloud applications, showcasing my skills and commitment to excellence. I thrive on challenges and enjoy collaborating with fellow developers to build innovative solutions. </b>
-
-<h2> 🤳 Connect with me:</h2>
-
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-[twitter]: https://twitter.com/trey44smith
-[youtube]: https://www.youtube.com/@trey44smith
-[instagram]: https://www.instagram.com/trey44smith/
-[linkedin]: https://linkedin.com/in/treydaviss
